@@ -1,0 +1,14 @@
+{
+  "name": "koa-http-proxy",
+  "version": "0.0.1",
+  "description": "koa wrapper over nodejitsu's node-http-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ming Liu",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.1.2"
+  }
+}
