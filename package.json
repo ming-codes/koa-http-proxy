@@ -1,7 +1,7 @@
 {
   "name": "koa-http-proxy",
   "version": "0.0.1",
-  "description": "koa wrapper over nodejitsu's node-http-proxy",
+  "description": "koajs wrapper over nodejitsu's node-http-proxy",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
