@@ -14,7 +14,7 @@ $ npm install koa-http-proxy
 All options are passed to `node-http-proxy`, except that if options is passed
 as a string, it will normalized as options' target.
 
-See [node-http-proxy](/nodejitsu/node-http-proxy#options) for full list of
+See [node-http-proxy](https://github.com/nodejitsu/node-http-proxy#options) for full list of
 accepted options.
 
 
