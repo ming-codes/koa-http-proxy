@@ -11,6 +11,7 @@
   "devDependencies": {
     "koa": "^0.6.0",
     "mocha": "^1.18.2",
-    "sinon": "^1.9.1"
+    "sinon": "^1.9.1",
+    "supertest": "^0.12.1"
   }
 }
