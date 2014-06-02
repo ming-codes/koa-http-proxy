@@ -4,6 +4,7 @@
   "description": "koajs wrapper over nodejitsu's node-http-proxy",
   "main": "index.js",
   "author": "Ming Liu",
+  "keywords": [ "koa", "http-proxy", "middleware" ],
   "license": "MIT",
   "dependencies": {
     "http-proxy": "^1.1.2"
