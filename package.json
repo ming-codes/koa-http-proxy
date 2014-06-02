@@ -2,9 +2,20 @@
   "name": "koa-http-proxy",
   "version": "0.0.1",
   "description": "koajs wrapper over nodejitsu's node-http-proxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightblade/koa-http-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lightblade/koa-http-proxy/issues"
+  },
   "main": "index.js",
   "author": "Ming Liu",
-  "keywords": [ "koa", "http-proxy", "middleware" ],
+  "keywords": [
+    "koa",
+    "http-proxy",
+    "middleware"
+  ],
   "license": "MIT",
   "dependencies": {
     "http-proxy": "^1.1.2"
