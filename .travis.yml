@@ -1,0 +1,19 @@
+---
+language: node_js
+
+node_js:
+  - "4.1.0"
+
+cache:
+  directories:
+    - node_modules
+
+matrix:
+  fast_finish: true
+
+install:
+  - npm install -g mocha
+  - npm install
+
+script:
+  - mocha --ui bdd --reporter tap spec
