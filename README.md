@@ -1,6 +1,8 @@
 
 # koa-http-proxy
 
+[![Build Status](https://travis-ci.org/ming-codes/koa-http-proxy.svg?branch=master)](https://travis-ci.org/ming-codes/koa-http-proxy)
+
 koajs wrapper over nodejitsu's node-http-proxy.
 
 ## Installation
