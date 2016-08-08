@@ -17,7 +17,7 @@
     "middleware"
   ],
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "http-proxy": "^1.1.2"
   },
   "devDependencies": {
