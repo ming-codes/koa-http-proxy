@@ -21,10 +21,10 @@
     "http-proxy": "^1.1.2"
   },
   "devDependencies": {
-    "koa": "^0.6.0",
-    "mocha": "^1.18.2",
+    "koa": "^1.2.5",
+    "mocha": "^3.2.0",
     "sinon": "^1.9.1",
-    "supertest": "^0.13.0",
-    "async": "^0.9.0"
+    "supertest": "^3.0.0",
+    "async": "^2.1.4"
   }
 }
