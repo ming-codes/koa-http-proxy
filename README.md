@@ -1,6 +1,8 @@
 
 # koa-http-proxy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ming-codes/koa-http-proxy.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ming-codes/koa-http-proxy.svg?branch=master)](https://travis-ci.org/ming-codes/koa-http-proxy)
 
 koajs wrapper over nodejitsu's node-http-proxy.
